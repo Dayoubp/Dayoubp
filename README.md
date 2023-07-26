@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dayoubp
+- 👋 Hi, I’m @Dayoubp (Ayoub Parvizi)
 - 👀 I’m interested in Machine Learning, Signal Processing, Deep Learning and Cognitive science
 - 🌱 I’m currently learning novel model of deep learning for wearable sensors
 - 💞️ I’m looking to collaborate on AI algorithms that help human life.
